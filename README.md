@@ -1,4 +1,4 @@
-# currency-converter
+# Currency-Converter
 This is an implementation of a react app that converts between two currencies. For this example, I will use bitcoin and kenya shilling.
 
 To see the demo or cloning this to re-design it to your specifications;
